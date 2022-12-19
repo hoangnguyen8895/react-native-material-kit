@@ -6,7 +6,8 @@
 //  Copyright © 2015年 https://github.com/xinthink. All rights reserved.
 //
 
-#import "math.h"
+// #import "math.h"
+#import <math.h>
 
 #import "TickView.h"
 #import "UIColor+MKColor.h"
